@@ -1,0 +1,176 @@
+ul {
+list-style: none;
+padding: 0;
+}
+
+.left-bar {
+z-index: 1000;
+height: 100%;
+width: 200px;
+float: left;
+}
+
+.left-bar-item {
+border-top: 1px solid black;
+height: 75px;
+background-color: #c4c4c4;
+}
+
+.left-bar-item-top {
+border-top: 1px solid black;
+height: 75px;
+}
+
+.smashing {
+width: 175px;
+height: 75px;}
+
+.tag-bar {
+float: left;
+width: 175px;
+margin-top: 92px;
+padding-right: 100px;
+}
+
+.tag-bar-item {
+height: 250px;
+width: 170px;
+background-color: #9d9d9d
+}
+
+.coding {
+border-left: 5px solid teal;
+}
+
+.design {
+border-left: 5px solid green;
+}
+
+.mobile {
+border-left: 5px solid yellow;
+}
+
+.graphics {
+border-left: 5px solid purple;
+}
+
+.ux-design {
+border-left: 5px solid pink;
+}
+
+.wordpress {
+border-left: 5px solid blue;
+}
+
+.main {
+display: inline-block;
+width: 55%;
+}
+
+.article {
+padding-right: 10%;
+padding-left: 10%;
+padding-bottom: 50px;
+width: 75%;
+display: inline-block;
+border-bottom: solid #2cb5bf 5px;}
+
+.article-title {
+padding-top: 100px;
+font-size: 24px;}
+
+.article-author {
+display: block;
+border-bottom: 1px solid black;
+}
+
+.article-info {
+display: inline-block;
+}
+
+.article-body {
+font-size: 24px;
+font-family: garamond;}
+
+.article-image {
+width: 500px;
+height: 300px;
+background-color: #c4c4c4;
+display: block;
+}
+
+.read-more-button {
+width: 90px;
+height: 40px;
+background-color: #2cb5bf;
+margin-top: 50px;
+}
+
+.right-bar {
+float: right;
+display: inline-block;
+width: 20%;
+height: 100%;
+background-color: #c4c4c4;
+}
+
+.search {
+margin-top: 75px
+}
+
+.search-form {
+width: 280px;
+height: 40px;
+background-color: #ffffff;
+display: inline-block;
+}
+
+.search-button {
+width: 90px;
+height: 40px;
+background-color: #e30955;
+display: inline-block;
+}
+
+.advertise-label p {
+display: inline-block;
+}
+
+.advertise-with {
+float: right;
+}
+
+.advertisement {
+width: 160px;
+height: 180px;
+display: inline-block;
+background-color: #cfcfcf;
+padding: 5px 5px 0 5px;
+margin-left: 10px;
+margin-top: 10px;
+}
+
+.advertisement-image {
+width: 160px;
+height: 120px;
+background-color: #cfcfcf;
+}
+
+.advertisement-text {
+height: 60px;
+background-color: #ffffff;
+}
+
+.newsletter {
+height: 260px;
+padding-top: 30px;
+background-color: #cfcfcf;
+}
+
+.newsletter-head {
+text-align: center;
+}
+
+.newsletter-body {
+font-size: 20px;
+padding: 10px;}
